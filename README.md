@@ -1,5 +1,14 @@
 # Clips
 
+Entry Level Video Sharing App
+
+Demo Application Using Angular Javascript Framework Frontend and Google Firebase Backend
+
+Hosted on Vercel:
+https://clipz-rpc28970.vercel.app/
+
+Provided Address for Testing Purposes, Performance may vary due to Server/Domain Limitations
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
